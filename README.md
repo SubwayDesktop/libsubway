@@ -1,4 +1,4 @@
 libsubway
 ============
 
-Base libraries for Subway.
+Base libraries for Subway (deprecated)
